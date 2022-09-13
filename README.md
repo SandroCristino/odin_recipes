@@ -1,2 +1,2 @@
 # odin_recipes
-Short training to internalize fundemantal HTML knowledge
+Short training to internalize fundamental HTML/ CSS knowledge

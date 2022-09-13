@@ -1,0 +1,83 @@
+
+
+
+/* index.html */
+.indexHOne {
+    background-color: beige;
+    color: darkcyan;
+    text-align: center;
+    margin: auto 140px;
+    padding: 10px;
+    font-size: 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.recipes {
+    border: 1px solid black;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+    margin: auto 140px;
+}
+
+.underRecipes {
+    border: 4px solid green;
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+}
+
+/* lasagna.html */
+.img {
+    margin-top: 1%;
+    width: 200px;
+    text-align: right;
+}
+
+.default {
+    margin: 20px 5%;
+    background-color: bisque;
+}
+
+h2 {
+    background-color: bisque;
+    border: 2px solid lightgrey;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.one {
+    font-size: 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.container {
+    border: 2px solid lightgrey;
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+    
+}
+
+.items {
+    display: flex;
+    justify-content: space-between;
+    margin: auto 140px;
+    padding: 20px;
+    width: 100%;
+}
+
+ul {
+    border: 2px solid lightgrey;
+}
+
+h3 {
+    border: 2px solid lightgrey;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.footer {
+    border: 2px solid lightgrey;
+}
